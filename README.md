@@ -1,5 +1,5 @@
 # Password_Management
-Created by https://github.com/shreyan-naskar/Password_Management. It involves a basic encryption protocol using the Hill Cipher and relevent file handling.
+Created by Shreyan Naskar. It involves a basic encryption protocol using the Hill Cipher and relevent file handling.
 
 ## Functions :
   1. Storage and Entry of ID & Encrypted Password.
