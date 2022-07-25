@@ -4,5 +4,5 @@ Created by Shreyan Naskar. It involves a basic encryption protocol using the Hil
 ## Functions :
   1. Storage and Entry of ID & Encrypted Password.
   2. Display Decrypted Password for given ID.
-  3. Deleting stored record.
-  4. Updating stored record.
+  3. Deleting stored record for given ID.
+  4. Updating stored record for given ID.
