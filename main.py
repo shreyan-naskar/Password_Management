@@ -84,7 +84,6 @@ def delete_rec():
 		acc.append(info[i])
 		print(i+1,'.',info[i].rstrip('\n'))
 	file3.close()
-	print(acc)
 
 	Op_no = int(input('\nEnter the Option Number : '))
 
@@ -125,9 +124,6 @@ def Update_Rec():
 		acc.append(info[i])
 		print(i+1,'.',info[i].rstrip('\n'))
 	file3.close()
-	print(acc)
-
-	
 	
 	Op_no = int(input('\nEnter the Option Number : '))
 
